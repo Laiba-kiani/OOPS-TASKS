@@ -5,7 +5,7 @@ double grosssalary(int Basicsalary,int allowanceper)
 {
 	return Basicsalary+(Basicsalary*allowanceper/100);
 }
-double netsalary(int grosssalary,int deductionper)
+double netsalary(int grosssalary,int deductionper) //noor
 {
 	return grosssalary-(grosssalary*deductionper/100);
 }
