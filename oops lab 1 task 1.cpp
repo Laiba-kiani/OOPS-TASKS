@@ -3,7 +3,7 @@
 using namespace std;
 double kilo(double kilometers)
 {
-	return kilometers*0.621;
+	return kilometers*0.621; // CHANGES IN GITHUB
 }
 double temp(double celcius)
 {
