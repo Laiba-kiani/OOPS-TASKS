@@ -3,11 +3,11 @@
 using namespace std;
 double kilo(double kilometers)
 {
-	return kilometers*0.621; // CHANGES IN GITHUB
+	return kilometers*0.621; 
 }
 double temp(double celcius)
 {
-	return (celcius*9/5)+32;
+	return (celcius*9/5)+32;  // CHANGES IN GITHUB
 }
 void time(int totalseconds)
 {
